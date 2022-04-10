@@ -37,29 +37,32 @@ Steps to be followed:
 
 1) Set Up virtual Python3 environment
 
-	```python -m venv env```
+	`python -m venv env`
 
 2) Activate the environment
 
-	```windows: env\bin\activate```
+	`windows: env\bin\activate`
 
 4) Unzip the folder in the virtual environment folder
 
 5) Follow the below commands to set up the database with the required tables
 
-	```python3 manage.py makemigrations
-	python3 manage.py migrate```
+	```
+	python3 manage.py makemigrations
+	python3 manage.py migrate 
+	```
 
 6) Start the Django server using the below command
 
-	```python manage.py runserver ```
+	`python manage.py runserver`
 
 7) Open the Local Host to view the App
 	
 - CORS:
-	```pip install django-cors-headers```  
+	`pip install django-cors-headers`
 
 - native-base:	
 	```npm install native-base
 	expo install react-native-svg
-	expo install react-native-safe-area-context```
+	expo install react-native-safe-area-context
+	```
