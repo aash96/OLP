@@ -55,15 +55,11 @@ Steps to be followed:
 	```python manage.py runserver ```
 
 7) Open the Local Host to view the App
-
-
-For frontend(grp 18):
-	add app in settings.py if restapi is used add 'rest_framework' too 
 	
--CORS:
+- CORS:
 	```pip install django-cors-headers```  
 
--native-base:	
+- native-base:	
 	```npm install native-base
 	expo install react-native-svg
 	expo install react-native-safe-area-context```
