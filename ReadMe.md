@@ -1,11 +1,3 @@
-## Mini Project 2 details :
-- Shashank Suroju - 19CS10061
-- Ashwin Sai - 19CS10001
-- Anurag Reddy - 19CS30032
-
-## Demo of the project :
-Demo of the application can be found at the youtube link :  https://youtu.be/_g9QewyFQSM
-
 ## Technology used :
 - Django
 - Sqlite3 database
